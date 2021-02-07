@@ -29,3 +29,5 @@ def shortestToChar(s, c):
 print(shortestToChar("loveleetcode", "e"))
 print(shortestToChar("aaab", "b"))
 print(shortestToChar("thisisunbelieveableididitletsgooooooooooooooooooooooooooooooooooo", "i"))
+print(shortestToChar("abcba", "c"))
+print(shortestToChar("githubisawesome", "s"))
