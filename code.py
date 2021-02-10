@@ -26,6 +26,6 @@ def shortestToChar(s, c):
             num += 1
         return lst
 
-print(shortestToChar("loveleetcode", "e"))
+print(shortestToChar("loveleetcoode", "e"))
 print(shortestToChar("aaab", "b"))
 print(shortestToChar("thisisunbelieveableididitletsgooooooooooooooooooooooooooooooooooo", "i"))
