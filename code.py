@@ -28,4 +28,10 @@ def shortestToChar(s, c):
 
 print(shortestToChar("loveleetcoode", "e"))
 print(shortestToChar("aaab", "b"))
+<<<<<<< HEAD
 print(shortestToChar("thisisunbelieveableididitletsgooooooooooooooooooooooooooooooooooo", "i"))
+=======
+print(shortestToChar("thisisunbelieveableididitletsgooooooooooooooooooooooooooooooooooo", "i"))
+print(shortestToChar("abcba", "c"))
+print(shortestToChar("githubisawesome", "s"))
+>>>>>>> 455ef38f65472a39bb93793a059e3f0f09dca22d
